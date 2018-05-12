@@ -1,0 +1,34 @@
+_repo: The-Amenities-of-Book-Collecting-and-Kindred-Affections_44360
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44360-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Newton, A. Edward (Alfred Edward)
+    aliases:
+    - Swift, Edward
+    - Newton, Alfred Edward
+    birthdate: 1864
+    deathdate: 1940
+    gutenberg_agent_id: '42710'
+    url: http://www.gutenberg.org/2009/agents/42710
+description: ''
+gutenberg_issued: '2013-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44360'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Book collecting'
+tableOfContents: 'Book-collecting abroad -- Book-collecting at home -- Old catalogues
+  and new prices -- "Association" books and first editions -- "What might have been"
+  -- James Boswell: his book -- A light-blue stocking -- A ridiculous philosopher
+  -- A great Victorian -- Temple Bar then and now -- A macaroni parson -- Oscar Wilde
+  -- A word in memory.'
+title: The Amenities of Book-Collecting and Kindred Affections
+url: http://www.gutenberg.org/ebooks/44360
