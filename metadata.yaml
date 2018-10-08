@@ -27,6 +27,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'Z'
 - !lcsh 'Book collecting'
+- GITenberg
 tableOfContents: 'Book-collecting abroad -- Book-collecting at home -- Old catalogues
   and new prices -- "Association" books and first editions -- "What might have been"
   -- James Boswell: his book -- A light-blue stocking -- A ridiculous philosopher
